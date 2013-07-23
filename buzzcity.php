@@ -47,7 +47,8 @@ class BuzzcityWidget extends WP_Widget {
     }
   
     public function form($instance) {
-        $instance = wp_parse_args( (array) $instance, array( 'title' => 'Ads by BuzzCity' ) );
+        $defaults = array( 'title' => 'Ads by BuzzCity', 'partnerId' => 8816 );
+        $instance = wp_parse_args( (array) $instance, $defaults );
         $title = $instance['title'];
         $partnerId = $instance['partnerId'];
         $adsType = $instance['adsType'];

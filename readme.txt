@@ -31,10 +31,16 @@ Note: You will need a BuzzCity Partner ID. Register as a Publisher at http://www
 
 == Changelog ==
 
+= 1.1 =
+* Provide a valid default partner ID
+
 = 1.0 =
 * First stable release
 
 == Upgrade Notice ==
+
+= 1.1 =
+ Minor improvement
 
 = 1.0 =
 First stable release
