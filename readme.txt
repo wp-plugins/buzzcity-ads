@@ -2,7 +2,7 @@
 Contributors: buzzcity
 Tags: mobile, ads, adverts, advertisements, widget
 Requires at least: 3.0.1
-Tested up to: 3.5.2
+Tested up to: 4.1.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -33,6 +33,8 @@ Note: You will need a BuzzCity Partner ID. Register as a Publisher at http://www
 
 = 1.1 =
 * Provide a valid default partner ID
+* Provide options on banner size
+* Provide Settings to allow banner to show on customized positions in the page
 
 = 1.0 =
 * First stable release
@@ -40,7 +42,9 @@ Note: You will need a BuzzCity Partner ID. Register as a Publisher at http://www
 == Upgrade Notice ==
 
 = 1.1 =
- Minor improvement
+* Minor improvement
+* Provide options on banner size
+* Provide Settings to allow banner to show on customized positions in the page
 
 = 1.0 =
 First stable release
